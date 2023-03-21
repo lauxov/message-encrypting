@@ -1,4 +1,4 @@
-#Video: https://youtu.be/fnI8AXTRE3o
+# Video: https://youtu.be/fnI8AXTRE3o
 
 This Python code implements an encryption and decryption tool using the AES-GCM (Galois/Counter Mode) authenticated encryption algorithm. The tool is designed to accept user input for either encryption or decryption, and uses a password entered by the user to encrypt or decrypt the data. The encrypted data is then copied to the system clipboard for easy sharing.
 
